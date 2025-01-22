@@ -22,21 +22,21 @@ Class time: F 10:10am-12:40pm, Location: 329 Pupin Laboratories
 |Week 4|- N-gram <br>- OLS | | |
 |Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) |- [PCN Chapter 12](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2 |
 |Week 6|- COVID-19 <br>- (AB testing) |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 7| **Midterm** |||
-|Week 8|- Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
-|Week 9|- Midterm review |||
-|Week 10|- regular expression |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
-|Week 11|- SQL <br>- (Internet speed) |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
-|Week 12|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 |
-|Week 13|**University Holiday NO CLASS**|||
-|Week 14|Review? |||
+|Week 7| - Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
+|Week 8| **Midterm** |||
+|Week 9|**University Holiday NO CLASS**|||
+|Week 10|- Midterm review |||
+|Week 11|- regular expression |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
+|Week 12|- SQL <br>- (Internet speed) |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
+|Week 13|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 |
+|Week 14|Review |||
 |Week 15|**Final** |||
 
 ## Learning outcomes
 This course is designed for beginners who do NOT have any experience in Python programming. We will cover following topics:
 - Basic concepts for Python programming
   - Data types, Functions, Control flow (loop/if-else)
-- Data acquistion
+- Data acquisition
   - Data collection using API and SQL query
 - Data wrangling for statistical analysis
   - from hierarchical structured data to tabular data
